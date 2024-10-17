@@ -40,6 +40,8 @@ Welcome to my GitHub profile! I'm a tech enthusiast with a soft spot for coding 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+254729490990)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennis-kiptoo/)
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/dekingsky)
+[![Upwork]](https://img.shields.io/badge/Upwork-Profile%20Link-blue)(https://www.upwork.com/freelancers/~0139a3178534697447?mp_source=share)
+
 
 
 
